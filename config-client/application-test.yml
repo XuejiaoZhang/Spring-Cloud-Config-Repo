@@ -1,6 +1,2 @@
 server:
-  port: 8081
-
-env:
-  name: test
-  description: test env
+  port: 8082
