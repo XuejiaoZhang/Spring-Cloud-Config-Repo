@@ -1,6 +1,3 @@
-server:
-  port: 8081
-
-env:
-  name: dev
-  description: dev env - config-client/bootstrap.yml
+spring:
+  application:
+    name: config-client
