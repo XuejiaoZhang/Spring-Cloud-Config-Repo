@@ -3,4 +3,4 @@ server:
 
 env:
   name: dev
-  description: dev env - config-client/config-client-dev.yml yes 2 refresh - check -2
+  description: dev env - config-client/config-client-dev.yml yes 2 refresh - check -3
